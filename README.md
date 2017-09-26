@@ -9,6 +9,7 @@
       For administrator, few more functions allowed when admin account logged in,
       and by using SQL, user log can be shown up.
       
+
       Since my SQL understanding was poor at that moment,
       I pretty much hardcoded the functions with Java.
 
