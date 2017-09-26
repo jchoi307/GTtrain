@@ -6,8 +6,9 @@
       The program is only working in computer, not for mobile app/etc
       to search train ticket and buy/change/cancel it.
       It simply checking student e-mail and provides discount to buy tickets too.
-      For administrator, few more functions allowed when admin account logged in,
-      and by using SQL, user log can be shown up.
+      For administrator, few more functions allowed 
+      when admin account logged in, and by using SQL,
+      user log can be shown up.
       
 
       Since my SQL understanding was poor at that moment,
